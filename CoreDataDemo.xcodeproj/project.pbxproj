@@ -12,8 +12,8 @@
 		E6A7FCA8288ACFD1009A7E0B /* CoreDataDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E6A7FCA6288ACFD1009A7E0B /* CoreDataDemo.xcdatamodeld */; };
 		E6A7FCAA288ACFD2009A7E0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6A7FCA9288ACFD2009A7E0B /* Assets.xcassets */; };
 		E6A7FCAD288ACFD2009A7E0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6A7FCAB288ACFD2009A7E0B /* LaunchScreen.storyboard */; };
-		E6A7FCB5288AD9DC009A7E0B /* TaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A7FCB4288AD9DC009A7E0B /* TaskViewController.swift */; };
 		E6A7FCB7288AE83C009A7E0B /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A7FCB6288AE83C009A7E0B /* StorageManager.swift */; };
+		E6A7FCB9288BE29D009A7E0B /* Extension + UIAlertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6A7FCB8288BE29D009A7E0B /* Extension + UIAlertController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,8 +24,8 @@
 		E6A7FCA9288ACFD2009A7E0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E6A7FCAC288ACFD2009A7E0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E6A7FCAE288ACFD2009A7E0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E6A7FCB4288AD9DC009A7E0B /* TaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewController.swift; sourceTree = "<group>"; };
 		E6A7FCB6288AE83C009A7E0B /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
+		E6A7FCB8288BE29D009A7E0B /* Extension + UIAlertController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UIAlertController.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,12 +60,12 @@
 			children = (
 				E6A7FC9D288ACFD1009A7E0B /* AppDelegate.swift */,
 				E6A7FCA1288ACFD1009A7E0B /* TaskListViewController.swift */,
-				E6A7FCB4288AD9DC009A7E0B /* TaskViewController.swift */,
 				E6A7FCA9288ACFD2009A7E0B /* Assets.xcassets */,
 				E6A7FCAB288ACFD2009A7E0B /* LaunchScreen.storyboard */,
 				E6A7FCAE288ACFD2009A7E0B /* Info.plist */,
 				E6A7FCA6288ACFD1009A7E0B /* CoreDataDemo.xcdatamodeld */,
 				E6A7FCB6288AE83C009A7E0B /* StorageManager.swift */,
+				E6A7FCB8288BE29D009A7E0B /* Extension + UIAlertController.swift */,
 			);
 			path = CoreDataDemo;
 			sourceTree = "<group>";
@@ -141,7 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E6A7FCA2288ACFD1009A7E0B /* TaskListViewController.swift in Sources */,
-				E6A7FCB5288AD9DC009A7E0B /* TaskViewController.swift in Sources */,
+				E6A7FCB9288BE29D009A7E0B /* Extension + UIAlertController.swift in Sources */,
 				E6A7FCB7288AE83C009A7E0B /* StorageManager.swift in Sources */,
 				E6A7FCA8288ACFD1009A7E0B /* CoreDataDemo.xcdatamodeld in Sources */,
 				E6A7FC9E288ACFD1009A7E0B /* AppDelegate.swift in Sources */,
