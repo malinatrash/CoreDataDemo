@@ -9,6 +9,9 @@ import Foundation
 import CoreData
 import UIKit
 
+
+// Class-manager
+
 class StorageManager {
     
     static let shared = StorageManager()
